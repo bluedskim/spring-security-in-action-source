@@ -1,0 +1,5 @@
+### Unauthorized
+curl http://localhost:8091/hello
+
+### Aauthorized
+curl -u user:a307ab77-f2a0-4b71-8da2-83b0334b4b3a http://localhost:8091/hello
